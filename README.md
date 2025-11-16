@@ -120,7 +120,7 @@ Checks long-term equilibrium between **Facebook Cost** and **Conversions**.
 
 ---
 
-## 🏁 Key Insights
+## Key Insights
 - Facebook outperforms AdWords in almost every metric.  
 - Strong link between Facebook clicks & conversions → reliable platform.  
 - Hypothesis testing confirms significant conversion difference.  
